@@ -3,12 +3,13 @@
 
 ################################################################################
 
-questions - is there a latitudinal or productivity gradient associated withspace use variability?
+questions:
+Is there a latitudinal or productivity gradient associated withspace use variability?
 Do less homogeneous habitats promote the use of clusters due to spatial variation and patchiness
 
 ################################################################################
 
- Importance
+ Importance:
  predictability in predator behavior - especially consistency in space-use
  is a prerequisite for prey to learn about dangerous locations, resulting in
  spatial risk effects (e.g., 'the landscape of fear'). These spatial risk effects
@@ -23,7 +24,7 @@ Do less homogeneous habitats promote the use of clusters due to spatial variatio
  predictability of predator movement and space-use.
 
 ################################################################################
-Predictions
+Predictions:
 
  1) In more heterogeneous habitats, animals may be anchored to locations that are 
  especially good for hunting - resulting in consistent space use and recursion to
@@ -36,12 +37,13 @@ Predictions
 
 ################################################################################
 
-Methods: Examine short-term variability in space use using GPS data on Jaguar 
- from a range of biomes in the Americas.
+Methods: 
+Examine short-term variability in space use using GPS data on Jaguar 
+from a range of biomes in the Americas.
 
 Metrics:
 Space-use variability: Earth Mover's distance - monthly dbbmm occurrence distributions
-Recursion / revisitation rates:  whether clusters emerge in more heterogeneous environments more often
+Recursion / revisitation rates: whether clusters emerge in more heterogeneous environments more often
 Daily maximum distance traveled
 
 Are these metrics most associated with biome, habitat heterogeneity (from MODIS), potential prey diversity (from literature),
