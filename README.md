@@ -24,6 +24,7 @@ Do less homogeneous habitats promote the use of clusters due to spatial variatio
  predictability of predator movement and space-use.
 
 ################################################################################
+
 Predictions:
  1) In more heterogeneous habitats, animals may be anchored to locations that are 
  especially good for hunting - resulting in consistent space use and recursion to
